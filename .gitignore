@@ -1,0 +1,5 @@
+Cargo.lock
+target/
+farm_yield.csv
+.vscode/settings.json
+*.twb
